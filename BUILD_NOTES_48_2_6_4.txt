@@ -1,0 +1,4 @@
+Build 48.2.6.4 packaging fix
+
+This patch adds OpsMonitor.spec and updates build_exe.bat to build from the spec file.
+The spec explicitly collects submodules from the full src package tree so packaged builds include src.ui.main_window and related modules.
