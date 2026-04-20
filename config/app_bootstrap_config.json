@@ -1,8 +1,0 @@
-{
-  "database_path": "OpsMonitor.db",
-  "app_log_path": "Logs/app.log",
-  "backup_path": "Backups",
-  "default_window_state": "normal",
-  "default_theme": "Charcoal Blue",
-  "data_path_override": ""
-}
